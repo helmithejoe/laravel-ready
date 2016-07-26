@@ -3,7 +3,8 @@
 		"laravel/framework": "4.0.*",
 		"maatwebsite/excel": "1.*",
 		"sayakb/captcha": "dev-master",
-		"davibennun/laravel-push-notification": "dev-master"
+		"davibennun/laravel-push-notification": "dev-master",
+		"vcode/qrcode":"dev-master"
 	},
 	"config": {
 		"preferred-install": "dist"

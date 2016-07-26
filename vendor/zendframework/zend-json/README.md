@@ -7,5 +7,6 @@
 decoding JSON to native PHP. For more information on JSON, visit the JSON
 [project site](http://www.json.org/).
 
+
 - File issues at https://github.com/zendframework/zend-json/issues
-- Documentation is at https://zendframework.github.io/zend-json/
+- Documentation is at http://framework.zend.com/manual/current/en/index.html#zend-json

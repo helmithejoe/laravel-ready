@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c51dd6499e47651061b2710f250c4286",
-    "content-hash": "f5ec14a4619c3ee89a06faa06cf67053",
+    "hash": "8daae6e6f886af0480e73a1bfef1e82b",
+    "content-hash": "67b77e657a60a85a4010da8738291a92",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -197,12 +197,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/cache.git",
-                "reference": "4e3b8b9464d511eccbefe07cef94c275bce7e434"
+                "reference": "fe68e4f78804684e31cce17590b0bd9f088db1b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/cache/zipball/4e3b8b9464d511eccbefe07cef94c275bce7e434",
-                "reference": "4e3b8b9464d511eccbefe07cef94c275bce7e434",
+                "url": "https://api.github.com/repos/doctrine/cache/zipball/fe68e4f78804684e31cce17590b0bd9f088db1b0",
+                "reference": "fe68e4f78804684e31cce17590b0bd9f088db1b0",
                 "shasum": ""
             },
             "require": {
@@ -258,7 +258,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2016-03-11 16:30:04"
+            "time": "2016-07-15 15:57:08"
         },
         {
             "name": "doctrine/collections",
@@ -266,16 +266,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/collections.git",
-                "reference": "46a476a6ac1f614442c7e4b1a6dca44f0b34f892"
+                "reference": "a58af3fd579f850c09a41d4c9fc5be76e9c6a2ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/collections/zipball/46a476a6ac1f614442c7e4b1a6dca44f0b34f892",
-                "reference": "46a476a6ac1f614442c7e4b1a6dca44f0b34f892",
+                "url": "https://api.github.com/repos/doctrine/collections/zipball/a58af3fd579f850c09a41d4c9fc5be76e9c6a2ab",
+                "reference": "a58af3fd579f850c09a41d4c9fc5be76e9c6a2ab",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.2"
+                "php": "^5.3.2 || ^7.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "~4.0"
@@ -324,20 +324,20 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2016-05-27 12:51:06"
+            "time": "2016-07-15 10:02:57"
         },
         {
             "name": "doctrine/common",
-            "version": "dev-master",
+            "version": "2.6.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/common.git",
-                "reference": "faf7d81273eeffb84d524006daf85d37a14ac42a"
+                "reference": "63fdca9a8581338a0288724798663bb3e2d3e718"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/common/zipball/faf7d81273eeffb84d524006daf85d37a14ac42a",
-                "reference": "faf7d81273eeffb84d524006daf85d37a14ac42a",
+                "url": "https://api.github.com/repos/doctrine/common/zipball/63fdca9a8581338a0288724798663bb3e2d3e718",
+                "reference": "63fdca9a8581338a0288724798663bb3e2d3e718",
                 "shasum": ""
             },
             "require": {
@@ -397,7 +397,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2016-05-25 16:10:02"
+            "time": "2016-07-07 01:43:08"
         },
         {
             "name": "doctrine/dbal",
@@ -910,12 +910,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "39aeecefaeacb43b7315399f37aee63b34930ec1"
+                "reference": "55841909e2bcde01b5318c35f2b74f8ecc86e037"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/39aeecefaeacb43b7315399f37aee63b34930ec1",
-                "reference": "39aeecefaeacb43b7315399f37aee63b34930ec1",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/55841909e2bcde01b5318c35f2b74f8ecc86e037",
+                "reference": "55841909e2bcde01b5318c35f2b74f8ecc86e037",
                 "shasum": ""
             },
             "require": {
@@ -980,7 +980,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2016-05-26 21:44:25"
+            "time": "2016-07-02 14:02:10"
         },
         {
             "name": "nesbot/carbon",
@@ -1130,12 +1130,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPOffice/PHPExcel.git",
-                "reference": "b0ce48fd92e15a874b8246d645072ad817b68114"
+                "reference": "e487f5c11a4b62376015d1e7da27420be0932275"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPOffice/PHPExcel/zipball/b0ce48fd92e15a874b8246d645072ad817b68114",
-                "reference": "b0ce48fd92e15a874b8246d645072ad817b68114",
+                "url": "https://api.github.com/repos/PHPOffice/PHPExcel/zipball/e487f5c11a4b62376015d1e7da27420be0932275",
+                "reference": "e487f5c11a4b62376015d1e7da27420be0932275",
                 "shasum": ""
             },
             "require": {
@@ -1183,7 +1183,7 @@
                 "xls",
                 "xlsx"
             ],
-            "time": "2016-05-11 14:18:17"
+            "time": "2016-07-14 22:05:28"
         },
         {
             "name": "predis/predis",
@@ -1798,12 +1798,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "dee379131dceed90a429e951546b33edfe7dccbb"
+                "reference": "ab4c3f085c8f5a56536845bf985c4cef30bf75fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/dee379131dceed90a429e951546b33edfe7dccbb",
-                "reference": "dee379131dceed90a429e951546b33edfe7dccbb",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/ab4c3f085c8f5a56536845bf985c4cef30bf75fd",
+                "reference": "ab4c3f085c8f5a56536845bf985c4cef30bf75fd",
                 "shasum": ""
             },
             "require": {
@@ -1839,7 +1839,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2016-04-12 18:01:21"
+            "time": "2016-07-20 05:41:28"
         },
         {
             "name": "symfony/finder",
@@ -2027,12 +2027,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/options-resolver.git",
-                "reference": "ddad0be20d6f2cb266cded8c349e046731df09b8"
+                "reference": "b6f982782a0624d37b5416c2c96fb99ce5ab74d5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/ddad0be20d6f2cb266cded8c349e046731df09b8",
-                "reference": "ddad0be20d6f2cb266cded8c349e046731df09b8",
+                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/b6f982782a0624d37b5416c2c96fb99ce5ab74d5",
+                "reference": "b6f982782a0624d37b5416c2c96fb99ce5ab74d5",
                 "shasum": ""
             },
             "require": {
@@ -2073,7 +2073,7 @@
                 "configuration",
                 "options"
             ],
-            "time": "2016-05-24 10:00:02"
+            "time": "2016-06-29 05:29:29"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -2081,12 +2081,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "67f0d2b927796648c5c38cedb7a2c8f1cf14e7dc"
+                "reference": "8a6bdec191138e01c92ae026e5aacb7b3e66267d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/67f0d2b927796648c5c38cedb7a2c8f1cf14e7dc",
-                "reference": "67f0d2b927796648c5c38cedb7a2c8f1cf14e7dc",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/8a6bdec191138e01c92ae026e5aacb7b3e66267d",
+                "reference": "8a6bdec191138e01c92ae026e5aacb7b3e66267d",
                 "shasum": ""
             },
             "require": {
@@ -2132,7 +2132,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-05-26 01:13:28"
+            "time": "2016-06-29 14:58:48"
         },
         {
             "name": "symfony/process",
@@ -2353,17 +2353,59 @@
             "time": "2015-12-08 16:14:14"
         },
         {
+            "name": "vcode/qrcode",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tyanhly/vcode_qrcode.git",
+                "reference": "7ecb30634d3559e3341e29c4bb12da56b7be861a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tyanhly/vcode_qrcode/zipball/7ecb30634d3559e3341e29c4bb12da56b7be861a",
+                "reference": "7ecb30634d3559e3341e29c4bb12da56b7be861a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Vcode\\Qrcode\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tung Ly",
+                    "email": "tyanhly@gmail.com"
+                }
+            ],
+            "description": "This is package generate Qrcode using some services like google qrcode. This package also support attaching logo into qrcode. In Laravel framework, it fully support for using facade, blade helper.",
+            "keywords": [
+                "laravel",
+                "logo",
+                "php",
+                "qrcode"
+            ],
+            "time": "2015-05-13 17:48:22"
+        },
+        {
             "name": "zendframework/zend-escaper",
             "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-escaper.git",
-                "reference": "4b4d0b89db62f017981fcb7ef33b2db9bea04444"
+                "reference": "724402ba0dc7d82eec30dac97efa669e69e0ae7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-escaper/zipball/4b4d0b89db62f017981fcb7ef33b2db9bea04444",
-                "reference": "4b4d0b89db62f017981fcb7ef33b2db9bea04444",
+                "url": "https://api.github.com/repos/zendframework/zend-escaper/zipball/724402ba0dc7d82eec30dac97efa669e69e0ae7c",
+                "reference": "724402ba0dc7d82eec30dac97efa669e69e0ae7c",
                 "shasum": ""
             },
             "require": {
@@ -2394,7 +2436,7 @@
                 "escaper",
                 "zf2"
             ],
-            "time": "2016-04-28 16:27:09"
+            "time": "2016-06-30 19:50:10"
         },
         {
             "name": "zendframework/zend-http",
@@ -2448,35 +2490,40 @@
         },
         {
             "name": "zendframework/zend-json",
-            "version": "dev-develop",
+            "version": "2.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-json.git",
-                "reference": "abef83ca145e842baf71158f17eaa9b80f543be9"
+                "reference": "4c8705dbe4ad7d7e51b2876c5b9eea0ef916ba28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-json/zipball/abef83ca145e842baf71158f17eaa9b80f543be9",
-                "reference": "abef83ca145e842baf71158f17eaa9b80f543be9",
+                "url": "https://api.github.com/repos/zendframework/zend-json/zipball/4c8705dbe4ad7d7e51b2876c5b9eea0ef916ba28",
+                "reference": "4c8705dbe4ad7d7e51b2876c5b9eea0ef916ba28",
                 "shasum": ""
             },
             "require": {
                 "php": "^5.5 || ^7.0"
             },
             "require-dev": {
+                "fabpot/php-cs-fixer": "1.7.*",
                 "phpunit/phpunit": "~4.0",
-                "squizlabs/php_codesniffer": "^2.3",
-                "zendframework/zend-stdlib": "^2.7 || ^3.0"
+                "zendframework/zend-http": "^2.5.4",
+                "zendframework/zend-server": "^2.6.1",
+                "zendframework/zend-stdlib": "^2.5 || ^3.0",
+                "zendframework/zendxml": "^1.0.2"
             },
             "suggest": {
-                "zendframework/zend-json-server": "For implementing JSON-RPC servers",
-                "zendframework/zend-xml2json": "For converting XML documents to JSON"
+                "zendframework/zend-http": "Zend\\Http component, required to use Zend\\Json\\Server",
+                "zendframework/zend-server": "Zend\\Server component, required to use Zend\\Json\\Server",
+                "zendframework/zend-stdlib": "Zend\\Stdlib component, for use with caching Zend\\Json\\Server responses",
+                "zendframework/zendxml": "To support Zend\\Json\\Json::fromXml() usage"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.0-dev",
-                    "dev-develop": "3.1-dev"
+                    "dev-master": "2.6-dev",
+                    "dev-develop": "2.7-dev"
                 }
             },
             "autoload": {
@@ -2494,7 +2541,7 @@
                 "json",
                 "zf2"
             ],
-            "time": "2016-04-12 21:11:28"
+            "time": "2016-02-04 21:20:26"
         },
         {
             "name": "zendframework/zend-loader",
@@ -2638,12 +2685,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-validator.git",
-                "reference": "59270e9f3bf8c25d3e7701ec8321879806d0d817"
+                "reference": "8422bb141aae5ae9ec6ec75cb6c5e723644e418d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-validator/zipball/59270e9f3bf8c25d3e7701ec8321879806d0d817",
-                "reference": "59270e9f3bf8c25d3e7701ec8321879806d0d817",
+                "url": "https://api.github.com/repos/zendframework/zend-validator/zipball/8422bb141aae5ae9ec6ec75cb6c5e723644e418d",
+                "reference": "8422bb141aae5ae9ec6ec75cb6c5e723644e418d",
                 "shasum": ""
             },
             "require": {
@@ -2701,7 +2748,7 @@
                 "validator",
                 "zf2"
             ],
-            "time": "2016-05-16 13:44:55"
+            "time": "2016-06-23 13:47:21"
         },
         {
             "name": "zendframework/zendservice-apple-apns",
@@ -2796,7 +2843,8 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "sayakb/captcha": 20,
-        "davibennun/laravel-push-notification": 20
+        "davibennun/laravel-push-notification": 20,
+        "vcode/qrcode": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

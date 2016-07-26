@@ -20,7 +20,7 @@ All notable changes to this project will be documented in this file, in reverse 
 
 - Nothing.
 
-## 2.8.1 - TBD
+## 2.8.2 - TBD
 
 ### Added
 
@@ -37,6 +37,26 @@ All notable changes to this project will be documented in this file, in reverse 
 ### Fixed
 
 - Nothing.
+
+## 2.8.1 - 2016-06-23
+
+### Added
+
+- Nothing.
+
+### Deprecated
+
+- Nothing.
+
+### Removed
+
+- Nothing.
+
+### Fixed
+
+- [#92](https://github.com/zendframework/zend-validator/pull/92) adds message
+  templates to the `ExcludeMimeType` validator, to allow differentiating
+  validation error messages from the `MimeType` validator.
 
 ## 2.8.0 - 2016-05-16
 
